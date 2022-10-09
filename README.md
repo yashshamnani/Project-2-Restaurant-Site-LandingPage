@@ -3,6 +3,8 @@
 ### by Yash Shamnani 
 
 
+## Live-Link [Restaurant]("https://restaurantlandingpage-yashshamnani.netlify.app/")
+
 
 
 ![img](2.png)
