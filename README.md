@@ -1,7 +1,7 @@
  # Landing Page -  Restaurant
 
 ### by Yash Shamnani 
-
+This is basically a one pager project made in HTML/CSS . it works in laptop screen if you are using desktop please zome in or out that might work .
 
 
 
